@@ -1,0 +1,11 @@
+**The Four Questions**
+1. Verb: promote
+2. Object: a moving company truck with a clipboard and a checklist obsession
+3. Animal: a border collie patrolling every inch of fence line because it cannot rest until every post is confirmed secure
+4. Most annoying manual task: visiting every single repository like a mail carrier, checking if someone already sent a letter (PR) before dropping a new one, then standing outside waiting for the house to answer (deployment verification)
+
+**The Reality**
+This skill is basically a code relocation service with trust issues. It refuses to just pick up code from the main platform and dump it at development without inspecting every box, asking for documentation proving you own the truck, checking if the neighbor already delivered a package to that address, and waiting for someone to sign a receipt at the new house. It treats every promotion like a hostile takeover that might go wrong in seventeen different ways, so it checks everything twice and writes a detailed incident report full of timestamps and commit IDs that nobody asked for.
+
+**The Superpower and the Mockery**
+It will chase down every repository in your entire organization like a bloodhound who caught a scent, drag a PR to each one's door even if they didn't order anything, merge only after confirming no angry neighbors (branch protection) are watching, and then stand on the porch for weeks waiting for the lights to turn on (runtime health check). It has no idea if your code actually works — it just knows the boxes arrived and the delivery confirmation was signed by the building manager.

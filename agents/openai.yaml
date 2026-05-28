@@ -1,0 +1,7 @@
+interface:
+  display_name: GG → Promote Main To Development → Full Promotion
+  short_description: Promote mainline changes into a development integration branch with merge and verification gates.
+  default_prompt: Use promote-main-to-development/SKILL.md for mainline-to-development promotions that include plain-language progress updates, inferred PR metadata, PR readiness, merge execution, conflict-safe resolution, and deployment/runtime verification.
+  brand_color: '#6366f1'
+  icon_large: ./assets/icon-large.png
+  icon_small: ./assets/icon-small.svg
